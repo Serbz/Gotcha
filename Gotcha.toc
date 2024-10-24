@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: Gotcha
+## Notes: Gotcha Bitch! By: Serberus
+## Version: 1.72
+## Author: Serberus
+## E-mail: serberus7.kristofer@yahoo.com
+## DefaultState: Enabled
+## SavedVariables: Gotcha_Settings
+Gotcha.lua
+Gotcha.xml

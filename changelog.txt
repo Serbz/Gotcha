@@ -1,0 +1,90 @@
+#############################################
+
+## [b]1.64[/b] ##
+updated for 4.3
+
+#############################################
+
+## [b]1.63[/b] ##
+Fixed duel voices
+Revamped variable saving. Your settings will revert to defaults.
+Revamped chat notifications.
+
+#############################################
+
+## [b]1.6 - 1.62[/b] ##
+Updated for WoW Version 4.2.x - should work flawlessly now. (will still work with 3.3.5)
+Temporarily removed duel voices, they are broken.
+
+#############################################
+
+## [b]1.53[/b] ##
+updated timing, to reset time on new killing streak.
+Timer to recieve multi kills reduced to 10 when in a battle ground.
+Timer to revieve multi kills increased to 15 when not in a battle ground
+
+#############################################
+
+## [b]1.521[/b] ##
+Removed Gotcha Bitch from halo sounds.
+Using a new timing method for multi kills.
+Added 1 new halo sound.
+Fixed the occasional addon break after multikill.
+Added color consistancy to chat to differenciate between system messages and Gotcha messages
+Fixed the z reset time being nil when you die without killing anyone on first loadup.
+Allowed 4 more seconds to get multi kills. 8 -> 12
+
+#############################################
+
+## [b]1.5b[/b] ##
+Fixed Gotcha_Settings = nil in saved values that broke the entire addon.
+Fixed Ludicrous kill, it was not playing at all.
+Added Halo sounds
+Fixed minimap button position saving.
+Removed Hattrick, it wasn't playing and is bugged.
+Changed 5 kills sounds to 10, 10 to 15, 15 to 20.
+
+#############################################
+
+## [b]1.4b[/b] ##
+Added Variable saving
+Added tooltip on minimap button
+Added multi kill
+Added enable/disable multikill voices
+Changed a few things in debug mode
+
+#############################################
+
+## [b]1.4a[/b] ## 
+Figured i would update this now because i do not know when i can finish this version.
+
+added duel sounds
+added monsterkill
+added triple kill
+swapped ludicrouskill and megakill
+added menu ([b]need to add:[/b] saving of variables and increase # of options in menu)
+
+#############################################
+
+## [b]1.3[/b] ##  
+[B][U]Added the following sounds for consecutive kills:[/U][/B]
+([COLOR="lime"]*[/COLOR] = 5 kills [COLOR="#00ffff"]*[/COLOR] = 10 kills [COLOR="orange"]*[/COLOR] = 15 kills [COLOR="red"]*[/COLOR] = 25 kills; All must be without death.)
+
+[COLOR="lime"]Dominating[/COLOR], [COLOR="lime"]Rampage [/COLOR],  [COLOR="#00bfff"]Megakill[/COLOR],  [COLOR="#00bfff"]Killingspree[/COLOR],  [COLOR="orange"]Wickedsick[/COLOR], [COLOR="orange"]unstoppable [/COLOR],  [COLOR="red"]Hattrick[/COLOR],  [COLOR="red"]godlike[/COLOR],  [COLOR="red"]Holyshit[/COLOR]
+
+[B][U]Added the following sounds for normal kills:[/U][/B]
+(these now play randomly with gotchabitch)
+
+perfect, impressive, ultrakill, ludicrouskill
+
+#############################################
+
+## [b]1.2[/b] ##
+Added female Humiliation, will randomly play male or female. Added DOUBLE KILL.
+
+#############################################
+
+## [b]1.1[/b] ##
+Added Humiliation. Fixed action bar range dot/bullet on icons.
+
+#############################################
